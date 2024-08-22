@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\abc\Desktop\Archon\api\Archon.API\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\abc\Desktop\Archon\api\Archon.API\obj\Release\net8.0\PubTmp\EFSQLScripts\Archon.API.Data.ArchonAuthDbContext.sql" />
+  <dbfullsql path="C:\Users\abc\Desktop\Archon\api\Archon.API\obj\Release\net8.0\PubTmp\EFSQLScripts\Archon.API.Data.ArchonDbContext.sql" />
+</sitemanifest>

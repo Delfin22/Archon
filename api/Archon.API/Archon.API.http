@@ -1,0 +1,6 @@
+@Archon.API_HostAddress = http://localhost:5226
+
+GET {{Archon.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

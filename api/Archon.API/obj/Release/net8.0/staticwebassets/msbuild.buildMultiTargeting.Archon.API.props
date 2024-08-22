@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Archon.API.props" />
+</Project>

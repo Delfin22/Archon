@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2024-08-22T13:09:16.6050398Z||;True|2024-08-22T10:53:00.8820285+02:00||;True|2024-08-21T20:12:34.8087108+02:00||;True|2024-08-21T20:08:36.3891712+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Archon.API.Data.ArchonAuthDbContext">
+      <Value>Data Source=sqlserver-archon-poland-dev-001.database.windows.net,1433%3bInitial Catalog=sqlserver-archondb-poland-dev-001%3bUser ID=archon%3bPassword=Czarek1500</Value>
+    </EFMigrations>
+    <EFMigrations Include="Archon.API.Data.ArchonDbContext">
+      <Value>Data Source=sqlserver-archon-poland-dev-001.database.windows.net,1433%3bInitial Catalog=sqlserver-archondb-poland-dev-001%3bUser ID=archon%3bPassword=Czarek1500</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
