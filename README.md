@@ -1,4 +1,7 @@
 # Archon
+
+!Currently api is not working so you are unable to login!
+
 Small CRUD app using
 - React and vite - hosted on Netlify
 - .Net Core, ASPNet and SQL database hosted on Azure
